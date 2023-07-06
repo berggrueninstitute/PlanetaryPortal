@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html class="no-js" lang="">
+
+<head>
+  <meta charset="utf-8" />
+  <title>Planetary Portal</title>
+  <meta name="title" content="" />
+  <meta name="description" content="" />
+  <meta name="author" content="" />
+  <meta name="keywords" content="" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="shortcut icon" type="image/png" href="./img/favicon.png" />
+
+  <link href='https://api.mapbox.com/mapbox-gl-js/v1.6.0/mapbox-gl.css' rel='stylesheet' />
+  <link href="https://fonts.googleapis.com/css2?family=Albert+Sans:ital,wght@0,300;0,400;0,600;0,700;1,400&display=swap"
+    rel="stylesheet">
+  <link href="./main.css" rel="stylesheet">
+
+</head>
+
+<body>
+  <div class="infopanel-overlay">
+    <div class="infopanel-wrapper">
+      <div class="infopanel">
+        <div class="infopanel-content">
+          <img id="landingLogo" src="./img/globe.svg" />
+          <p>Planetary thinking recognizes human affairs as inextricably linked with the biogeochemical processes of an
+            ever-changing planet. The Planetary Portal is a central database of thinkers and organizations working on
+            the Planetary. By bringing together diverse communities from the fields of science, social sciences,
+            humanities, arts, and politics, the Planetary Portal can be a facilitator for planetary discussions,
+            bridging the gap between the theoretical and the practical.
+          </p>
+          <span class="explore">Explore<img src="./img/chevron-right.svg"></span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="tooltip"></div>
+  <div class="wrapper">
+    <div id="individualsPanel">
+      <p class="panelTitle">Thinkers</p>
+      <span class="close">Close&nbsp;&nbsp;✕</span>
+      <hr>
+      <div id="thinkerTextWrapper">
+        <p>Here we highlight individuals who are unaffiliated with a single planetary-focused organization, but
+          nonetheless act as nodes of planetary thinking. As individuals are notably more mobile than fixed centers,
+          they are not included in the portal map. However, in our estimation, a comprehensive database of planetary
+          thinking hubs, such as this site endeavors to be, would not be complete without including such individual
+          contributors.
+          <br><br>This list is always growing and never complete. Submissions of additional individuals for
+          consideration to
+          include here are most welcome.
+        </p>
+      </div>
+      <hr>
+      <ul class="individualList">
+      </ul>
+    </div>
+    <div id="aboutPanel">
+      <p class="panelTitle">About</p>
+      <span class="close">Close&nbsp;&nbsp;✕</span>
+      <hr>
+      <p> The Planetary is an emerging concept in the sciences, social sciences, humanities, arts, and politics that
+        draws attention to the basic fact that human affairs take place on a planet — and the innumerous and complex
+        implications that flow from this realization. To think with and through the Planetary is to acknowledge that
+        human life is inextricably embedded within the biogeochemical ferment of an ever-changing planet — a planet that
+        expands spatially from the Earth’s core to interplanetary space, temporally from nanoseconds to cosmic time
+        scales, and materially from elementary particles to the dark matter of the universe.
+
+        <br><br>In contrast to concepts like “global,” “international,” and “transnational” — premised, as they are, on
+        human
+        perspectives and institutions — the concept of the Planetary does not privilege humans or any other particular
+        species. Rather, it makes plain that Earth is not humanity’s alone. We share it with other living beings,
+        nonliving matter, and forms of energy. In fact, these other-than-human agents, conditions and processes are what
+        make human existence possible – though the reverse is not true. The Earth affects humans and is affected by
+        humans, but it was here before humans evolved and will be here long after humans have gone. A planetary
+        perspective, then, requires grappling with the political consequences, necessities, and possibilities of
+        properly placing human experiences and sensibilities within the inhumanly vast frames of geological timescales,
+        and Earth-spanning biological, chemical, and physical phenomenon.
+        <br><br>
+        This website, the Planetary Portal, aims to serve as a hub for planetary thinking, connecting disparate
+        communities where theoretical and practical ideas on the Planetary are being developed. A collaboration between
+        the <a href="https://www.uni-giessen.de/en/faculties/planetarythinking/planetarythinking-en">Panel on Planetary
+          Thinking</a> at the University of Giessen and the <a
+          href="https://www.berggruen.org/work/the-planetary/">Planetary research program</a> at the Berggruen
+        Institute, the Planetary Portal maps institutions around the world that are working on or within a planetary
+        framework. They include university research centers, independent research institutes, NGOs, and other
+        organizations that approach policy, politics, and philosophy through a planetary lens. It is our hope that
+        representing the many diverse institutions that are working on the Planetary in one place will help visitors
+        visualize the contours of this emerging field, draw connections between the various intellectual ventures,
+        provide basic structure for the nascent category, and further the development of planetary thought, with the aim
+        of developing a viable planetary politics.
+
+        <br><br>
+        The list of institutions and individual forerunners included on this website was compiled by the Panel on
+        Planetary Thinking at the University of Giessen and the Planetary research program at the Berggruen Institute.
+        It is a work in progress: if you would like your institutions to be considered for inclusion (or to be removed
+        from the site), please contact us through the submission form.
+
+      </p>
+    </div>
+
+    <div id="tooltipPanel">
+      <p class="panelTitle" id="organization"></p>
+      <span class="close">✕</span>
+      <hr>
+      <div class="mapWrapper">
+        <div id="mapMobile"></div>
+      </div>
+      <div class="textWrapper">
+        <span class="website" id="website"><a href='' target='_blank'>Website&nbsp;&nbsp;<img
+              src="./img/website.svg" /></a></span>
+        <p id="address">address</p>
+        <span class="focusarea" id="focus"> focus</span>
+        <p class="mission" id="mission"> mission </p>
+      </div>
+    </div>
+    <div class="main">
+      <div id="topBar">
+        <img id="logo_s" src="./img/logo_s.svg" />
+        <img id="menu" src="./img/menu.svg" />
+        <span id="mapButton">Back to map</span>
+      </div>
+      <div id="sidebar">
+        <div id="logoWrapper">
+          <a href="index.html"><img id="logo" src="./img/globe2.svg" /></a>
+        </div>
+        <!-- <hr> -->
+        <div id="about">
+          <p>About</p>
+        </div>
+        <hr>
+        <div id="thinkers">
+          <p>Thinkers</p>
+        </div>
+        <hr>
+        <form id="searchform">
+          <input type="text" id="search-bar" autocomplete="off" placeholder="Search for organization or location" />
+          <ul class="output">
+          </ul>
+          <p id="reset" class="button">clear search</p>
+        </form>
+        <hr>
+        <p class="titleText" id="zoomInstruction">Draw target area on map to zoom<span id="resetZoom"
+            class="button">reset</span></p>
+        <hr>
+        <div>
+          <p class="titleText item" id="toggleTitle">Filter by topic</p>
+          <img class="item" id="filterArrow" src="./img/chevron-right.svg">
+        </div>
+        <div id="toggleWrapper">
+          <div class="itemWrapper">
+            <div class='toggle item filters' id="filter1">
+              <input id='layer1On' type="radio" value="layer1On" name="toggle" checked='checked'>
+              <input id='layer1Off' type="radio" value="layer1Off" name="toggle">
+              <div class="toggle__pointer color1"></div>
+            </div>
+            <div class="item toggleText">
+              <p id="one">Solutions & Politics</p>
+            </div>
+          </div>
+          <div class="itemWrapper">
+            <div class='row toggle item filters' id="filter2">
+              <input id='layer2On' type="radio" value="layer2On" name="toggle2" checked='checked'>
+              <input id='layer2Off' type="radio" value="layer2Off" name="toggle2">
+              <div class="toggle__pointer color2"></div>
+            </div>
+            <div class="item toggleText">
+              <p id="two">Habitability & Hospitability</p>
+            </div>
+          </div>
+          <div class="itemWrapper">
+            <div class='row toggle3 item filters' id="filter3">
+              <input id='layer3On' type="radio" value="layer3On" name="toggle3" checked='checked'>
+              <input id='layer3Off' type="radio" value="layer3Off" name="toggle3">
+              <div class="toggle__pointer color3"></div>
+            </div>
+            <div class="item toggleText">
+              <p id="three">Justice & Ethics</p>
+            </div>
+          </div>
+          <div class="itemWrapper">
+            <div class='row toggle4 item filters' id="filter4">
+              <input id='layer4On' type="radio" value="layer4On" name="toggle4" checked='checked'>
+              <input id='layer4Off' type="radio" value="layer4Off" name="toggle4">
+              <div class="toggle__pointer color4"></div>
+            </div>
+            <div class="item toggleText">
+              <p id="four">Earth System Science</p>
+            </div>
+          </div>
+          <div class="itemWrapper">
+            <div class='row toggle5 item filters' id="filter5">
+              <input id='layer5On' type="radio" value="layer5On" name="toggle5" checked='checked'>
+              <input id='layer5Off' type="radio" value="layer5Off" name="toggle5">
+              <div class="toggle__pointer color5"></div>
+            </div>
+            <div class="item toggleText">
+              <p id="five">Solutions & Economics</p>
+            </div>
+          </div>
+          <div class="itemWrapper">
+            <div class='row toggle5 item filters' id="filter6">
+              <input id='layer6On' type="radio" value="layer6On" name="toggle6" checked='checked'>
+              <input id='layer6Off' type="radio" value="layer6Off" name="toggle6">
+              <div class="toggle__pointer color6"></div>
+            </div>
+            <div class="item toggleText">
+              <p id="six">Indigenous Knowledge</p>
+            </div>
+          </div>
+        </div>
+        <hr>
+        <div>
+          <p class="titleText item" id="projectionTitle">Map projection</p>
+          <img class="item" id="projectionArrow" src="./img/chevron-right.svg">
+        </div>
+        <div id="projectionWrapper">
+          <div class="radioWrapper">
+            <input type="radio" id="PQ" name="setProjection" value="PQ" class="typeRadio" checked>
+            <label for="PQ">Peirce Quincuncial</label>
+          </div>
+          <div class="radioWrapper">
+            <input type="radio" id="NE" name="setProjection" value="NE" class="typeRadio">
+            <label for="NE">Natural Earth</label>
+          </div>
+        </div>
+        <hr>
+        <div class="itemWrapper contact">
+          <a href="mailto: info@planetaryportal.org">
+            <p class="item">Contact us</p>
+            <img src="./img/mail.svg" class="item" />
+          </a>
+        </div>
+        <hr>
+        <div id="logoWrapperBottom">
+          <img id="logo1" src="./img/berggruen.png" />
+          <img id="logo2" src="./img/giessen.png" />
+        </div>
+      </div>
+
+      <div id="mainMap">
+        <div class="chartWrapper">
+          <div id="chart1"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/6.2.0/d3.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+  <script src="https://d3js.org/d3-array.v1.min.js"></script>
+  <script src="https://d3js.org/d3-geo.v1.min.js"></script>
+  <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+  <script src='https://api.mapbox.com/mapbox-gl-js/v1.6.0/mapbox-gl.js'></script>
+  <script src="./js/tooltip.js"></script>
+  <script src="./main.js"></script>
+</body>
+
+</html>

@@ -548,7 +548,6 @@
     bottom:0;
     background-color: #ddd2ca;
     width:250px;
-
   }
 
   #logoWrapperBottom img {
@@ -896,17 +895,28 @@
 
   @media only screen and (max-width:700px) {
 
+    #logoWrapperBottom {
+      width:100%;
+      padding: 10px 20px;
+    }
+
+    #logoWrapperBottom img{
+      width:250px;
+    }
+
+    #sidebar{
+      border-bottom: none;
+
+    }
+
     .contact{
-      margin-bottom: 0px;
+      margin-bottom: 60px;
     }
 
     .infopanel {
         width: 75%;
       }
 
-    .chartWrapper {
-      height: 90vh;
-    }
 
     .main {
       width: 100vw;
@@ -998,6 +1008,7 @@
       height: 100vh;
       margin-left: auto;
       margin-right: auto;
+      margin-top: -100px;
     }
 
   }

@@ -1,5 +1,4 @@
-mapboxgl.accessToken = 'pk.eyJ1IjoiamhqYW5pY2tpIiwiYSI6Il9vb1ZlWnMifQ.zJie3Sr8zh3h5rR8IBMB2A';
-// 'pk.eyJ1IjoiYXJvc2VuYmx1bSIsImEiOiJjbGpxOGJ4NjcwM205M2ZyZnJ5bTZmbmZ4In0.rZ_yk2sHZUTx3t8LNEtdpw';
+mapboxgl.accessToken = 'pk.eyJ1IjoiYXJvc2VuYmx1bSIsImEiOiJjbGpzN3FwNW8wbTRzM2Zxbm9zOGEzeW1xIn0.dL-P0gJKRwXKC721cBqEbA';
 
 
 // dimensions related
@@ -22,11 +21,15 @@ if (windowWidth <= 700) {
   isSmallScreen = true;
 }
 
-let is_iPad = navigator.userAgent.match(/iPad/i) != null;
+const userAgent = navigator.userAgent.toLowerCase();
 
-const searchformWidth = $("#search-bar").width();
-$(".output").css("width", searchformWidth + 20);
+// let is_iPad = navigator.userAgent.match(/iPad/i) != null;
+const isTablet = /(ipad|tablet|(android(?!.*mobile))|(windows(?!.*phone)(.*touch))|kindle|playbook|silk|(puffin(?!.*(IP|AP|WP))))/.test(userAgent);
 
+if(!isSmallScreen){
+    let sidebarHeight = $("#sidebar").height();
+    $(".chartWrapper").css("height",sidebarHeight)
+}
 
 let width = $(".chartWrapper").width();
 let height = $(".chartWrapper").height();
@@ -407,7 +410,7 @@ Promise.all([worldmap, points, worldmapDetailed, individuals]).then(function (va
       )
     })
 
-    $(".individualList li").click(function () {
+    $(".individualList li").click(function (event) {
       event.preventDefault();
 
       if ($(this).hasClass("active")) {
@@ -568,7 +571,7 @@ Promise.all([worldmap, points, worldmapDetailed, individuals]).then(function (va
       d3.selectAll(".point").style("stroke", "#808080")
       d3.select(this).style("stroke", "black")
       clicked = true;
-      if (isSmallScreen || is_iPad) {
+      if (isSmallScreen || isTablet) {
         showDetail(e, d);
       }
     })
@@ -882,7 +885,7 @@ function showDetail(e, d) {
 
     let map = new mapboxgl.Map({
       container: 'mapMobile', // container element id
-      style:  'mapbox://styles/jhjanicki/clhit1ezw01ik01pgbs36b1gj', //'mapbox://styles/arosenblum/cljq807b300y101ns47ao5akl'
+      style:  'mapbox://styles/arosenblum/cljsa3auw019701qyftm23etd',
       center: [d.Longitude, d.Latitude], // initial map center in [lon, lat]
       zoom: 15
     });
@@ -897,8 +900,8 @@ function showDetail(e, d) {
     let content = `<h4> ${d.Organization} </h4>
   <div class="mapWrapper">
     <div id="map"></div>
-    <span class="website"><a href='${d.Contact_site}' target='_blank'>Website&nbsp;&nbsp;<img src="./img/website.svg" /></a></span>
   </div>
+  <span class="website"><a href='${d.Contact_site}' target='_blank'>Website&nbsp;&nbsp;<img src="./img/website.svg" /></a></span>
   <p class="address">${d.Contact_address}</p>
   <span class="focusarea" style='background-color:${fill} '> ${d.Focus} </span>
   <p class="mission"> ${d.Mission} </p>
@@ -908,7 +911,7 @@ function showDetail(e, d) {
 
     let map = new mapboxgl.Map({
       container: 'map', // container element id
-      style: 'mapbox://styles/jhjanicki/clhit1ezw01ik01pgbs36b1gj',
+      style: 'mapbox://styles/arosenblum/cljsa3auw019701qyftm23etd',
       center: [d.Longitude, d.Latitude], // initial map center in [lon, lat]
       zoom: 15
     });

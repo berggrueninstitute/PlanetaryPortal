@@ -27,10 +27,6 @@ function floatingTooltip(tooltipId, width, xPosOffset) {
      */
     function showTooltip(isSmallScreen, content, event) {
 
-      console.log(isSmallScreen)
-      console.log(content)
-      console.log(event)
-
       if(isSmallScreen){
 
         tt.style('opacity', 1.0)
@@ -95,8 +91,6 @@ function floatingTooltip(tooltipId, width, xPosOffset) {
         tttop = curY + yOffset;
       }
 
-      console.log(event.clientY + wscrY)
-
       if(event.clientY + wscrY >300 && event.clientY + wscrY <500){
         tttop = tttop-300;
       }
@@ -108,8 +102,6 @@ function floatingTooltip(tooltipId, width, xPosOffset) {
       if(event.clientX + wscrX >520){
         ttleft = ttleft-500;
       }
-
-
 
       tt
         .style('top', tttop + 'px')

@@ -3,8 +3,12 @@
     src: url("./font/ABCDiatype-Regular.otf") format("opentype");
   }
 
-  /* LANDING PAGE */
+  /* Submission Form */ 
+  .cotact-form {
+    padding: 0px 20px 0px 20px;
+  }
 
+  /* LANDING PAGE */
   #landingLogo {
     width: 80%;
     margin-left: auto;

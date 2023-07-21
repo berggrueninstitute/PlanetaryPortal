@@ -13,6 +13,7 @@
   <link rel="shortcut icon" type="image/png" href="./img/logo.svg" />
 
   <link href='https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.css' rel='stylesheet' />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
   <link href="./main.css" rel="stylesheet">
 
 </head>
@@ -25,9 +26,7 @@
           <img id="landingLogo" src="./img/globe.svg" />
           <p>Planetary thinking recognizes human affairs as inextricably linked with the biogeochemical processes of an
             ever-changing planet. The Planetary Portal is a central database of thinkers and organizations working on
-            the Planetary. By bringing together diverse communities from the fields of science, social sciences,
-            humanities, arts, and politics, the Planetary Portal can be a facilitator for planetary discussions,
-            bridging the gap between the theoretical and the practical.
+            the Planetary. By bringing together diverse communities from the sciences, social sciences, humanities, arts, and politics, the Planetary Portal can be a facilitator for planetary discussions, bridging the gap between the theoretical and the practical.
           </p>
           <span class="explore">Explore<img src="./img/chevron-right.svg"></span>
         </div>
@@ -91,12 +90,87 @@
         visualize the contours of this emerging field, draw connections between the various intellectual ventures,
         provide basic structure for the nascent category, and further the development of planetary thought, with the aim
         of developing a viable planetary politics.
-
         <br><br>
         The list of institutions and individual forerunners included on this website was compiled by the Panel on
         Planetary Thinking at the University of Giessen and the Planetary research program at the Berggruen Institute.
         It is a work in progress: if you would like your institutions to be considered for inclusion (or to be removed
         from the site), please contact us through the submission form.
+
+        <!-- Submission Form -->
+        <!--Section: Contact v.2-->
+<section class="mb-4">
+
+  <!--Section heading-->
+  <div class="row">
+      <!--Grid column-->
+      <div class="col-md-12 mb-md-0 mb-5">
+          <form class="cotact-form" id="contact-form" name="contact-form" action="mailto:adamr714@gmail.com" method="POST">
+
+              <!--Grid row-->
+              <div class="row">
+
+                  <!--Grid column-->
+                  <div class="col-md-6">
+                      <div class="md-form mb-0">
+                          <input type="text" id="name" name="name" class="form-control">
+                          <label for="name" class="">Your name</label>
+                      </div>
+                  </div>
+                  <!--Grid column-->
+
+                  <!--Grid column-->
+                  <div class="col-md-6">
+                      <div class="md-form mb-0">
+                          <input type="text" id="email" name="email" class="form-control">
+                          <label for="email" class="">Your email</label>
+                      </div>
+                  </div>
+                  <!--Grid column-->
+
+              </div>
+              <!--Grid row-->
+
+              <!--Grid row-->
+              <div class="row">
+                  <div class="col-md-12">
+                      <div class="md-form mb-0">
+                          <input type="text" id="subject" name="subject" class="form-control">
+                          <label for="subject" class="">Subject</label>
+                      </div>
+                  </div>
+              </div>
+              <!--Grid row-->
+
+              <!--Grid row-->
+              <div class="row">
+
+                  <!--Grid column-->
+                  <div class="col-md-12">
+
+                      <div class="md-form">
+                          <textarea type="text" id="message" name="message" rows="2" class="form-control md-textarea"></textarea>
+                          <label for="message">Your message</label>
+                      </div>
+
+                  </div>
+              </div>
+              <!--Grid row-->
+
+          </form>
+
+          <div class="text-center text-md-left">
+              <a class="btn btn-primary" onclick="document.getElementById('contact-form').submit();">Send</a>
+          </div>
+          <div class="status"></div>
+      </div>
+      <!--Grid column-->
+
+      
+
+  </div>
+
+</section>
+<!--Section: Contact v.2-->
 
       </p>
     </div>
@@ -253,6 +327,7 @@
   <script src='https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.js'></script>
   <script src="./js/tooltip.js"></script>
   <script src="./main.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
 </body>
 
 </html>

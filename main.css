@@ -3,7 +3,7 @@
     src: url("./font/ABCDiatype-Regular.otf") format("opentype");
   }
 
-  /* Submission Form */ 
+  /* Submission Form */
   .cotact-form {
     padding: 0px 20px 0px 20px;
   }
@@ -117,7 +117,7 @@
 
   .button {
     text-transform: uppercase;
-    padding: 6px 8px;
+    padding: 4px 8px;
     width: auto;
     display: inline-block;
     text-align: center;
@@ -547,15 +547,26 @@
   /* SIDEBAR */
 
   #logoWrapperBottom {
-    padding: 20px;
+    border-top: 1px solid rgba(0, 0, 0, 0.15);
+    padding: 15px 20px 10px 20px;
     position: fixed;
     bottom:0;
     background-color: #ddd2ca;
-    width:250px;
+    width:289px;
   }
 
   #logoWrapperBottom img {
-    width:100%;
+    height:26px;
+    margin-left:2px;
+    padding-right: 3px;
+  }
+
+  #logoWrapperBottom a:not(:last-child){
+    border-right: 1px solid rgba(0, 0, 0, 0.15);
+  }
+
+  #logoWrapperBottom a{
+    vertical-align: middle;
   }
 
   #logo {
@@ -618,7 +629,7 @@
   #search-bar {
     display: block;
     margin: 10px 0 0;
-    width: 100%;
+    width: 232px;
     padding: 5px 10px;
     font-size: 14px;
   }
@@ -896,16 +907,55 @@
     margin-right: 15px;
   }
 
+  .form-button {
+    text-transform: uppercase;
+    padding: 4px 8px;
+    width: auto;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    font-weight: 600;
+    font-size: 10px;
+    text-decoration: none;
+    color:black;
+  }
+
+  .form-button:hover {
+    transition: all 0.5s ease;
+    border: 1px solid #73C7D8;
+    background-color: #73C7D8;
+    cursor: pointer;
+    color:black;
+  }
+
+
+  .form-button.active {
+    pointer-events: inherit;
+    border: 1px solid #73C7D8;
+    background-color: #73C7D8;
+  }
+
+
 
   @media only screen and (max-width:700px) {
 
+    #searchform{
+      width: calc(100% - 30px);
+    }
+
+    #search-bar {
+      width: 100%;
+    }
+
     #logoWrapperBottom {
       width:100%;
-      padding: 10px 20px;
+      padding: 15px 20px 10px 15px;
     }
 
     #logoWrapperBottom img{
-      width:250px;
+      width:auto;
+      height:30px;
     }
 
     #sidebar{

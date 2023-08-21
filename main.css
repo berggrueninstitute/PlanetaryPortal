@@ -166,21 +166,25 @@
   }
 
   /* LAYOUT */
-
   #sidebar {
     border-right: 1px solid rgba(0, 0, 0, 0.15);
     border-bottom: 1px solid rgba(0, 0, 0, 0.15);
-    min-height: 100vh;
-    position: absolute;
     width: 290px;
     display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    overflow-y: auto;
   }
 
   #mainMap {
     margin-left: 290px;
-    /* max-width: 1300px; */
+    height: 100vh;
+    overflow-y: hidden;
     width: auto;
   }
+
 
   #topBar {
     display: none;
@@ -992,7 +996,7 @@
       background-color: #ddd2ca;
       z-index: 1000;
       min-height: 0px;
-
+      height: auto;
     }
 
     #logoWrapper {

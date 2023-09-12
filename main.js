@@ -402,6 +402,7 @@ Promise.all([worldmap, points, worldmapDetailed, individuals]).then(function (va
           <ul class="accordion">
             <br>
             <span class="focusarea" style='background-color:${fill} '> ${d.Category}: ${d.Focus}</span>
+            <p class="work">${d.Bio}</p>
             <p class="work">${d.Work}</p>
             <span class="website"><a href='${d.Contact_site}' target='_blank'>Website&nbsp;&nbsp;<img src="./img/website.svg" /></a></span>
             <br><br>

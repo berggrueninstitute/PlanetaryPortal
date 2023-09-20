@@ -788,6 +788,7 @@
 
   .toggle__pointer.color1 {
     background-color: #d69a07;
+    /* width: 24px; */
   }
 
   .toggle__pointer.color2 {

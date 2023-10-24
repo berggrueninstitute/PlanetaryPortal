@@ -1,0 +1,828 @@
+[{
+  "Id":1,
+  "Name":"Dipesh Chakrabarty",
+  "Works":[
+    {
+      "Entry": 1,
+      "Author": "Chakrabarty, Dipesh",
+      "Work": "The crises of civilization: Exploring global and planetary histories. Oxford University Press, 2018."
+    },
+    {
+      "Entry": 2,
+      "Author": "Chakrabarty, Dipesh",
+      "Work": "The climate of history in a planetary age. University of Chicago Press, 2021. "
+    },
+    {
+      "Entry": 3,
+      "Author": "Chakrabarty, Dipesh",
+      "Work": "The planet: An emergent humanist category.' Critical Inquiry 46, no. 1 (2019): 1-31. "
+    },
+    {
+      "Entry": 4,
+      "Author": "Chakrabarty, Dipesh",
+      "Work": "Anthropocene time.' History and Theory 57, no. 1 (2018): 5-32. "
+    },
+    {
+      "Entry": 5,
+      "Author": "Chakrabarty, Dipesh",
+      "Work": "The politics of climate change is more than the politics of capitalism.' Theory, Culture & Society 34, no. 2-3 (2017): 25-37. "
+    },
+    {
+      "Entry": 6,
+      "Author": "Chakrabarty, Dipesh",
+      "Work": "Climate and capital: On conjoined histories.' Critical Inquiry 41, no. 1 (2014): 1-23. "
+    },
+    {
+      "Entry": 7,
+      "Author": "Chakrabarty, Dipesh",
+      "Work": "Postcolonial studies and the challenge of climate change.' New Literary History 43, no. 1 (2012): 1-18. "
+    },
+    {
+      "Entry": 8,
+      "Author": "Chakrabarty, Dipesh",
+      "Work": "The climate of history: Four theses.' Critical inquiry 35, no. 2 (2009): 197-222. "
+    },
+    {
+      "Entry": 9,
+      "Author": "Chakrabarty, Dipesh",
+      "Work": "Planetary crises and the difficulty of being modern.' Millennium 46, no. 3 (2018): 259-282. "
+    },
+    {
+      "Entry": 10,
+      "Author": "Latour, Bruno, and Dipesh Chakrabarty",
+      "Work": "Conflicts of planetary proportions–a conversation.' Journal of the Philosophy of History 14, no. 3 (2020): 1-36. "
+    },
+    {
+      "Entry": 11,
+      "Author": "Chakrabarty, Dipesh",
+      "Work": "Planetary Humanities: Straddling the Decolonial/Postcolonial Divide.' Daedalus 151, no. 3 (2022): 222-233."
+    },
+    {
+      "Entry": 12,
+      "Author": "Chakrabarty, Dipesh, and Ashish Ghadiali",
+      "Work": "On the idea of the planetary.' Soundings 78, no. 78 (2021): 50-63."
+    }
+   ]
+},
+{
+  "Id":2,
+  "Name":"Gayatri Chakravorty Spivak",
+  "Works":[
+    {
+      "Entry": 1,
+      "Author": "Spivak, Gayatri Chakravorty",
+      "Work": "Death of a Discipline. New York: Columbia UP, 2003."
+    },
+    {
+      "Entry": 2,
+      "Author": "Spivak, Gayatri Chakravorty",
+      "Work": "Planetarity (Box 4, WELT).' Paragraph 38, no. 2 (2015): 290–92. http://www.jstor.org/stable/44016381."
+    }
+   ]
+},
+{
+  "Id":3,
+  "Name":"Nigel Clark",
+  "Works":[
+    {
+      "Entry": 1,
+      "Author": "Clark, Nigel",
+      "Work": "Inhuman nature: Sociable life on a dynamic planet. Sage Publications, 2011."
+    },
+    {
+      "Entry": 2,
+      "Author": "Clark, Nigel, and Bronislaw Szerszynski",
+      "Work": "Planetary social thought: The Anthropocene challenge to the social sciences. John Wiley & Sons, 2020."
+    },
+    {
+      "Entry": 3,
+      "Author": "Clark, Nigel, and Bronislaw Szerszynski",
+      "Work": "Planetary technics, earthly spirits.  In Religion, Materialism and Ecology. London:Routledge, 2022."
+    },
+    {
+      "Entry": 4,
+      "Author": "Clark, Nigel, and Lauren Rickards",
+      "Work": "An Anthropocene species of trouble? Negative synergies between earth system change and geological destratification. The Anthropocene Review 9, no. 3 (2022): 425-442."
+    },
+    {
+      "Entry": 5,
+      "Author": "Clark, Nigel, and Bronislaw Szerszynski",
+      "Work": "Thinking through the Earth: Surviving and thriving at a planetary threshold. Dialogues in Human Geography 12, no. 3 (2022): 488-491."
+    },
+    {
+      "Entry": 6,
+      "Author": "Clark, Nigel, and Bronislaw Szerszynski",
+      "Work": "Rifted subjects, fractured Earth:‘Progress’ as learning to live on a self-transforming planet. The Sociological Review 70, no. 2 (2022): 385-401."
+    },
+    {
+      "Entry": 7,
+      "Author": "Clark, Nigel",
+      "Work": "Planetary cities: Fluid rock foundations of civilization. Theory, Culture & Society 39, no. 2 (2022): 177-196."
+    },
+    {
+      "Entry": 8,
+      "Author": "Clark, Nigel, and Bronislaw Szerszynski",
+      "Work": "Planetary thought and the much more-than-human. In Adrian Franklin, eds. The Routledge International Handbook of More-than-Human Studies. London:Routledge, 022."
+    },
+    {
+      "Entry": 9,
+      "Author": "Clark, Nigel",
+      "Work": "Catastrophe as usual: Learning to live with extremity. In The Routledge Handbook of Social Change, pp. 166-178. London:Routledge, 2022."
+    },
+    {
+      "Entry": 10,
+      "Author": "Szerszynski, Bronislaw, and Nigel Clark",
+      "Work": "Elemental Computation: From Non-human Media to More-than-Digital Information Systems. In Routledge Handbook of the Digital Environmental Humanities, pp. 516-527. London:Routledge, 2022."
+    },
+    {
+      "Entry": 11,
+      "Author": "Clark, Nigel",
+      "Work": "Earthly remains: Homo erectus and the lure of volcanism. In Mira Asriningtyas, Adam Bobbette & Dito Yuwono, eds. Berita Gunung Berapi. Melbourne:Reading Sideways Press, 2022."
+    },
+    {
+      "Entry": 12,
+      "Author": "Clark, Nigel",
+      "Work": "Anthropogenic fire as the hinge between Earth system and strata. Haus der Kulturen der Welt , Berlin. 2022 https://www.anthropocene-curriculum.org/anthropogenic-markers/combustion/contribution/anthropogenic-fire-as-the-hinge-between-earth-system-and-strata."
+    },
+    {
+      "Entry": 13,
+      "Author": "Clark, Nigel",
+      "Work": "Vertical fire: For a pyropolitics of the subsurface. Geoforum 127 (2021): 364-372."
+    },
+    {
+      "Entry": 14,
+      "Author": "Clark, Nigel",
+      "Work": "Exchanging fire: A planetary history of the explosion. Ín Alison Bashford, Adam Bobbette & Emily Kern, eds. New Earth histories. Chicago:University of Chicago Press, 2021."
+    },
+    {
+      "Entry": 15,
+      "Author": "Clark, Nigel",
+      "Work": "Vulcan’s eye: Molten media and the sensing of the Earth. In Benek Cincik and Tiago Torres-Campos, eds. Postcards from the Anthropocene: Unsettling the geopolitics of representation. Barcelona:dpr-barcelona, 2021."
+    },
+    {
+      "Entry": 16,
+      "Author": "Higgins, David, Tess Somervell, and Nigel Clark",
+      "Work": "Introduction: Environmental Humanities Approaches to Climate Change. Humanities 9, no. 3 (2020): 94."
+    },
+    {
+      "Entry": 17,
+      "Author": "Clark, Nigel",
+      "Work": "Urban granaries, planetary thresholds. In Matthew Gandy and Sandra Jasper, eds. The Botanical City. pp. 30-37. Berlin:Jovis Verlag, 2020."
+    },
+    {
+      "Entry": 18,
+      "Author": "Clark, Nigel",
+      "Work": "Primordial wounds: Resilience, trauma and the rifted body of the Earth. In Resilience in the Anthropocene, pp. 147-161. London:Routledge, 2020."
+    },
+    {
+      "Entry": 19,
+      "Author": "Gunaratnam, Yasmin, and Nigel Clark",
+      "Work": "Pre-race post-race: Climate change and planetary humanism. Dark Matter 9, no. 1 (2012)."
+    },
+    {
+      "Entry": 20,
+      "Author": "Clark, Nigel",
+      "Work": "Geo‐politics and the disaster of the A nthropocene. The Sociological Review 62 (2014): 19-37."
+    },
+    {
+      "Entry": 21,
+      "Author": "Clark, Nigel Halcomb",
+      "Work": "PyroGaia: planetary fire as force and signification. Ctrl-Z: New Media Philosophy 7 (2017)."
+    },
+    {
+      "Entry": 22,
+      "Author": "Clark, Nigel",
+      "Work": "Anthropocene incitements: Toward a politics and ethics of ex-orbitant planetarity. In The Politics of Globality Since 1945, pp. 126-144. London:Routledge, 2016."
+    },
+    {
+      "Entry": 23,
+      "Author": "Clark, Nigel, and Yasmin Gunaratnam",
+      "Work": "Earthing the Anthropos? From ‘socializing the Anthropocene’to geologizing the social. European Journal of Social Theory 20, no. 1 (2017): 146-163."
+    },
+    {
+      "Entry": 24,
+      "Author": "Clark, Nigel",
+      "Work": "Rock, life, fire: Speculative geophysics and the Anthropocene. Oxford Literary Review 34, no. 2 (2012): 259-276."
+    },
+    {
+      "Entry": 25,
+      "Author": "Clark, Nigel",
+      "Work": "Geoengineering and geologic politics. Environment and Planning A 45, no. 12 (2013): 2825-2832."
+    },
+    {
+      "Entry": 26,
+      "Author": "Clark, Nigel",
+      "Work": "Fiery arts: pyrotechnology and the political aesthetics of the Anthropocene. GeoHumanities 1, no. 2 (2015): 266-284."
+    },
+    {
+      "Entry": 27,
+      "Author": "Clark, Nigel Halcomb",
+      "Work": "Infernal machinery: Thermopolitics of the explosion. Culture Machine 17 (2018)."
+    },
+    {
+      "Entry": 28,
+      "Author": "Clark, Nigel",
+      "Work": "Anthropocene bodies, geological time and the crisis of natality. Body & Society 23, no. 3 (2017): 156-180."
+    },
+    {
+      "Entry": 29,
+      "Author": "Clark, Nigel",
+      "Work": "Pyropolitics for a planet of fire. In Kimberely Peters, Philip Steinberg, and Elaine Stratford, eds. Territory beyond terra, London: Rowman & Littlefield International, 2018."
+    },
+    {
+      "Entry": 30,
+      "Author": "Clark, Nigel, and Kathryn Yusoff",
+      "Work": "Queer fire: ecology, combustion and pyrosexual desire. Feminist review 118, no. 1 (2018): 7-24."
+    },
+    {
+      "Entry": 31,
+      "Author": "Clark, Nigel",
+      "Work": "What can go wrong when people become interested in the nonhuman. In The Routledge Companion to Actor-Network Theory, pp. 158-167. London:Routledge, 2020."
+    },
+    {
+      "Entry": 32,
+      "Author": "Clark, Nigel, and Bronislaw Szerszynski",
+      "Work": "Planetary multiplicity, earthly multitudes: Interscalar practices for a volatile planet. In Narratives of Scale in the Anthropocene, pp. 75-93. Routledge, 2021. "
+    },
+    {
+      "Entry": 33,
+      "Author": "Clark, Nigel",
+      "Work": "Earth, fire, art: Pyrotechnology and the crafting of the social. In Inventing the social. London:Mattering Press, 2018."
+    },
+    {
+      "Entry": 34,
+      "Author": "Clark, Nigel",
+      "Work": "The epochal event: Transformations in the entangled human, technological, and natural worlds. AAG REVIEW 36 (2023)."
+    },
+    {
+      "Entry": 35,
+      "Author": "Clark, Nigel",
+      "Work": "Enflamed imaginations: of fire and futurity. Culture and Climate Change: Scenarios (2019): 30."
+    },
+    {
+      "Entry": 36,
+      "Author": "Clark, Nigel",
+      "Work": "Anthropocene semiosis. Dialogues in Human Geography 7, no. 2 (2017): 145-150."
+    }
+   ]
+},
+{
+  "Id":4,
+  "Name":"Bronislaw Szerszynski",
+  "Works":[
+    {
+      "Entry": 1,
+      "Author": "Clark, Nigel, and Bronislaw Szerszynski",
+      "Work": "Planetary social thought: The Anthropocene challenge to the social sciences. John Wiley & Sons, 2020."
+    },
+    {
+      "Entry": 2,
+      "Author": "Szerszynski, Bronislaw",
+      "Work": "Drift as a planetary phenomenon. Performance Research 23, no. 7 (2018): 136-144."
+    },
+    {
+      "Entry": 3,
+      "Author": "Szerszynski, Bronislaw",
+      "Work": "Planetary mobilities: movement, memory and emergence in the body of the Earth. Mobilities 11, no. 4 (2016): 614-628."
+    },
+    {
+      "Entry": 4,
+      "Author": "Szerszynski, Bronislaw",
+      "Work": "Infrastructuring as a Planetary Phenomenon. Historical Social Research/Historische Sozialforschung 47, no. 4 (2022): 193-214."
+    },
+    {
+      "Entry": 5,
+      "Author": "Szerszynski, Bronislaw",
+      "Work": "A planetary turn for the social sciences?. In Mobilities and Complexities, pp. 223-227. Routledge, 2018."
+    },
+    {
+      "Entry": 6,
+      "Author": "Szerszynski, Bronislaw",
+      "Work": "Gods of the Anthropocene: geo-spiritual formations in the Earth’s new epoch. Theory, Culture & Society 34, no. 2-3 (2017): 253-275."
+    },
+    {
+      "Entry": 7,
+      "Author": "Szerszynski, Bronislaw, Matthew Kearnes, Phil Macnaghten, Richard Owen, and Jack Stilgoe",
+      "Work": "Why solar radiation management geoengineering and democracy won't mix. Environment and Planning A 45, no. 12 (2013): 2809-2816."
+    },
+    {
+      "Entry": 8,
+      "Author": "Szerszynski, Bronislaw",
+      "Work": "Commission on Planetary Ages: Decision CC87966424/49: The onomatophore of the Anthropocene. In The Anthropocene and the Global Environmental Crisis, pp. 177-183. Routledge, 2015."
+    },
+    {
+      "Entry": 9,
+      "Author": "Szerszynski, Bronislaw",
+      "Work": "Liberation through hearing in the planetary transition: funerary practices in twenty-second-century Mangalayana Buddhism. Grain Vapor Ray: Textures of the Anthropocene 3 (2014): 149-64."
+    },
+    {
+      "Entry": 10,
+      "Author": "Szerszynski, Bronislaw",
+      "Work": "Epilogue: Indigenous worlds and planetary futures. In Indigenous Perceptions of the End of the World: Creating a Cosmopolitics of Change (2019): 203-209."
+    },
+    {
+      "Entry": 11,
+      "Author": "Szerszynski, Bronislaw",
+      "Work": "How to dismantle a bus: planetary mobilities as method. In Handbook of Research Methods and Applications for Mobilities, pp. 398-410. Edward Elgar Publishing, 2020."
+    },
+    {
+      "Entry": 12,
+      "Author": "Clark, Nigel, and Bronislaw Szerszynski",
+      "Work": "Planetary technics, earthly spirits.  In Religion, Materialism and Ecology. London:Routledge, 2022."
+    },
+    {
+      "Entry": 13,
+      "Author": "Clark, Nigel, and Bronislaw Szerszynski",
+      "Work": "Thinking through the Earth: Surviving and thriving at a planetary threshold. Dialogues in Human Geography 12, no. 3 (2022): 488-491."
+    },
+    {
+      "Entry": 14,
+      "Author": "Clark, Nigel, and Bronislaw Szerszynski",
+      "Work": "Rifted subjects, fractured Earth:‘Progress’ as learning to live on a self-transforming planet. The Sociological Review 70, no. 2 (2022): 385-401."
+    },
+    {
+      "Entry": 15,
+      "Author": "Clark, Nigel, and Bronislaw Szerszynski",
+      "Work": "Planetary thought and the much more-than-human. In Adrian Franklin, eds. The Routledge International Handbook of More-than-Human Studies. London:Routledge, 2022."
+    },
+    {
+      "Entry": 16,
+      "Author": "Szerszynski, Bronislaw, and Nigel Clark",
+      "Work": "Elemental Computation: From Non-human Media to More-than-Digital Information Systems. In Routledge Handbook of the Digital Environmental Humanities, pp. 516-527. London:Routledge, 2022."
+    },
+    {
+      "Entry": 17,
+      "Author": "Szerszynski, Bronislaw",
+      "Work": "Viewing the technosphere in an interplanetary light. The Anthropocene Review 4, no. 2 (2017): 92-102."
+    },
+    {
+      "Entry": 18,
+      "Author": "Clark, Nigel, and Bronislaw Szerszynski",
+      "Work": "Planetary multiplicity, earthly multitudes: Interscalar practices for a volatile planet. In Narratives of Scale in the Anthropocene, pp. 75-93. Routledge, 2021."
+    },
+    {
+      "Entry": 19,
+      "Author": "Szerszynski, Bronislaw",
+      "Work": "On representation and speculation: a case for the use of representational practices in SciArt. Global Discourse 11, no. 1-2 (2021): 131-135."
+    },
+    {
+      "Entry": 20,
+      "Author": "Szerszynski, Bronislaw",
+      "Work": "Cosmic Hail. Das Questões 13, no. 1 (2021)."
+    },
+    {
+      "Entry": 21,
+      "Author": "Deane-Drummond, Celia, Sigurd Bergmann, and Bronislaw Szerszynski, eds",
+      "Work": "Technofutures, nature and the sacred: Transdisciplinary perspectives. Ashgate Publishing, Ltd., 2015."
+    },
+    {
+      "Entry": 22,
+      "Author": "Szerszynski, Bronislaw",
+      "Work": "Planetary Alterity, Solar Cosmopolitics and the Parliament of Planets. Environmental Alterities (2021): 204-26."
+    },
+    {
+      "Entry": 23,
+      "Author": "Macnaghten, Phil, and Bronislaw Szerszynski",
+      "Work": "Geoengineering/climate intervention. The International Encyclopedia of Geography (2017): 1-7."
+    },
+    {
+      "Entry": 24,
+      "Author": "Deane-Drummond, Celia, Sigurd Bergmann, and Bronislaw Szerszynski, eds",
+      "Work": "e Technologisation of Life: eology and the Trans-Human and Trans-Animal Narratives of the Post-Animal. In Deane-Drummond, Celia, Sigurd Bergmann, and Bronislaw Szerszynski. e Technologisation of Life: eology and the Trans-Human and Trans-Animal Narratives of the Post-Animal. In Technofutures, Nature and the Sacred, pp. 155-172. Routledge, 2016."
+    }
+   ]
+},
+{
+  "Id":5,
+  "Name":"Paul Raskin",
+  "Works":[
+    {
+      "Entry": 1,
+      "Author": "Raskin, Paul",
+      "Work": "Great Transition: The promise and lure of the times ahead, SEI US: Sweden,2010."
+    },
+    {
+      "Entry": 2,
+      "Author": "Raskin, Paul",
+      "Work": "Journey to Earthland: The Great Transition to planetary civilization,Tellus Institute: Boston, 2016."
+    }
+   ]
+},
+{
+  "Id":6,
+  "Name":"Achille Mbembe",
+  "Works":[
+    {
+      "Entry": 1,
+      "Author": "Mbembe, Achille",
+      "Work": "Bodies as borders. From the European South 4 (2019): 5-18."
+    },
+    {
+      "Entry": 2,
+      "Author": "Mbembe, Achille",
+      "Work": "Thoughts on the planetary: An interview with Achille Mbembe. In Decolonising the Neoliberal University, pp. 122-136. Birkbeck Law Press, 2021."
+    },
+    {
+      "Entry": 3,
+      "Author": "Mbembe, Achille",
+      "Work": "Planetary Entanglement. In Out of the Dark Night: Essays on Decolonization, pp. 7-41. New York Chichester, West Sussex: Columbia University Press, 2021. https://doi.org/10.7312/mbem16028-003. "
+    },
+    {
+      "Entry": 4,
+      "Author": "Mbembe, Achille",
+      "Work": "Necropolitics. transl. Steven Corcoran. Durham: Duke UP, 2019. "
+    }
+   ]
+},
+{
+  "Id":7,
+  "Name":"Yuk Hui",
+  "Works":[
+    {
+      "Entry": 1,
+      "Author": "Hui, Yuk",
+      "Work": "For a Planetary Thinking. E-Flux Journal 114 (2020)."
+    },
+    {
+      "Entry": 2,
+      "Author": "Hui, Yuk",
+      "Work": "On cosmotechnics: For a renewed relation between technology and nature in the anthropocene. Techné: Research in Philosophy and Technology 21, no. 2/3 (2017): 319-341."
+    },
+    {
+      "Entry": 3,
+      "Author": "Hui, Yuk",
+      "Work": "Philosophy and the Planetary. Philosophy Today 64, no. 4 (2020): 865-869."
+    },
+    {
+      "Entry": 4,
+      "Author": "Hui, Yuk",
+      "Work": "Art and cosmotechnics. U of Minnesota Press, 2021."
+    },
+    {
+      "Entry": 5,
+      "Author": "Hui, Yuk, and Pieter Lemmens, eds",
+      "Work": "Cosmotechnics: For a renewed concept of technology in the Anthropocene. Routledge, 2021."
+    },
+    {
+      "Entry": 6,
+      "Author": "Hui, Yuk",
+      "Work": "For a Cosmotechnical Event. Foundations of Science 27, no. 1 (2022): 141-154."
+    },
+    {
+      "Entry": 7,
+      "Author": "Hui, Yuk",
+      "Work": "On the synthesis of social memories. Memory in Motion: Archives, Technology, and the Social (2017): 307-325."
+    },
+    {
+      "Entry": 8,
+      "Author": "Hui, Yuk, and Giovanni Menegalle",
+      "Work": "A Thousand Cosmotechnics. TANK Magazine no. 74 (2018)."
+    },
+    {
+      "Entry": 9,
+      "Author": "Hui, Yuk",
+      "Work": "This Strange Being Called the Cosmos. Foundations of Science (2021): 1-6."
+    },
+    {
+      "Entry": 10,
+      "Author": "Lemmens, Pieter, and Yuk Hui",
+      "Work": "Landscapes of Technological Thoughts: A Dialogue between Pieter Lemmens and Yuk Hui. Philosophy Today 65, no. 2 (2021): 375-389."
+    },
+    {
+      "Entry": 11,
+      "Author": "Hui, Yuk",
+      "Work": "Introduction: Philosophy after Automation?. Philosophy Today 65, no. 2 (2021): 217-233."
+    },
+    {
+      "Entry": 12,
+      "Author": "Hui, Yuk",
+      "Work": "The question concerning technology in China: An essay in cosmotechnics. Vol. 3. MIT Press, 2019."
+    }
+   ]
+},
+{
+  "Id":8,
+  "Name":"Neil Brenner",
+  "Works":[
+    {
+      "Entry": 1,
+      "Author": "Brenner, Neil",
+      "Work": "Debating planetary urbanization: For an engaged pluralism. Environment and Planning D: Society and Space 36, no. 3 (2018): 570-590."
+    },
+    {
+      "Entry": 2,
+      "Author": "Brenner, Neil",
+      "Work": "Theses on urbanization. Public culture 25, no. 1 (2013): 85-114."
+    },
+    {
+      "Entry": 3,
+      "Author": "Brenner, Neil",
+      "Work": "Implosions /Explosions: Towards a Study of Planetary Urbanization. Berlin, Boston: JOVIS Verlag GmbH, 2013. https://doi.org/10.1515/9783868598933. "
+    },
+    {
+      "Entry": 4,
+      "Author": "Brenner, Neil, and Christian Schmid",
+      "Work": "Combat, caricature & critique in the study of planetary urbanization. Urban Theory Lab, Graduate School of Design, Harvard University. Recuperado em 10 (2015)."
+    },
+    {
+      "Entry": 5,
+      "Author": "Wachsmuth, David, and Neil Brenner",
+      "Work": "Introduction to Henri Lefebvre's “Dissolving City, Planetary Metamorphosis”. Environment and Planning D: Society and Space 32, no. 2 (2014): 199-202."
+    },
+    {
+      "Entry": 6,
+      "Author": "Brenner, Neil, and Swarnabh Ghosh",
+      "Work": "Between the colossal and the catastrophic: Planetary urbanization and the political ecologies of emergent infectious disease. Environment and Planning A: Economy and Space (2022): 0308518X221084313."
+    },
+    {
+      "Entry": 7,
+      "Author": "Brenner, Neil, and Christian Schmid",
+      "Work": "Towards a new epistemology of the urban?. City 19, no. 2-3 (2015): 151-182."
+    },
+    {
+      "Entry": 8,
+      "Author": "Wachsmuth, David, David J. Madden, and Neil Brenner",
+      "Work": "Between abstraction and complexity: Meta-theoretical observations on the assemblage debate. City 15, no. 6 (2011): 740-750."
+    },
+    {
+      "Entry": 9,
+      "Author": "Brenner, Neil, and Nikos Katsikis",
+      "Work": "Operational landscapes: Hinterlands of the Capitalocene. Architectural Design 90, no. 1 (2020): 22-31."
+    },
+    {
+      "Entry": 10,
+      "Author": "Brenner, Neil, and Christian Schmid",
+      "Work": "The ‘urban age’in question. International journal of urban and regional research 38, no. 3 (2014): 731-755."
+    },
+    {
+      "Entry": 11,
+      "Author": "Brenner, Neil, Elizabeth Chatterjee, and Jeremy Bendik-Keymer",
+      "Work": "Institutional Reflexivity when Facing the Planetary: An Interview. Environmental Philosophy 19, no. 2 (2022): 203-219."
+    },
+    {
+      "Entry": 12,
+      "Author": "Brenner, Neil",
+      "Work": "The hinterland urbanised?. Architectural Design 86, no. 4 (2016): 118-127."
+    },
+    {
+      "Entry": 13,
+      "Author": "Schmid, Christian, Neil Brenner, and Milica Topalovic",
+      "Work": "Cartographies of planetary urbanisation. Kerb: Journal of Landscape Architecture 24 (2016): 92-93."
+    },
+    {
+      "Entry": 14,
+      "Author": "Brenner, Neil",
+      "Work": "What is critical urban theory?. In Cities for people, not for profit, pp. 23-35. Routledge, 2012."
+    },
+    {
+      "Entry": 15,
+      "Author": "Brenner, Neil, David J. Madden, and David Wachsmuth",
+      "Work": "Assemblage urbanism and the challenges of critical urban theory. City 15, no. 2 (2011): 225-240."
+    },
+    {
+      "Entry": 16,
+      "Author": "Brenner, Neil",
+      "Work": "New urban spaces: Urban theory and the scale question. Oxford University Press, 2019."
+    },
+    {
+      "Entry": 17,
+      "Author": "Brenner, Neil",
+      "Work": "Is “Tactical Urbanism” an Alternative to Neoliberal Urbanism? Reflections on an Exhibition at the Moma. In The Social Re Production of Architecture, pp. 113-128. Routledge, 2017."
+    },
+    {
+      "Entry": 18,
+      "Author": "Brenner, Neil",
+      "Work": "Critique of urbanization: Selected essays. Vol. 156. Birkhäuser, 2016."
+    },
+    {
+      "Entry": 19,
+      "Author": "Brenner, Neil, and Roger Keil",
+      "Work": "From global cities to globalized urbanization. In The city reader, pp. 667-684. Routledge, 2011."
+    },
+    {
+      "Entry": 20,
+      "Author": "Brenner, Neil, David J. Madden, and David Wachsmuth",
+      "Work": "Assemblages, actor-networks, and the challenges of critical urban theory. In Cities for people, not for profit: Critical urban theory and the right to the city (2012): 117-137."
+    },
+    {
+      "Entry": 21,
+      "Author": "Brenner, Neil",
+      "Work": "Geographies of globalization. Public Cult 10 (1997): 135-167."
+    },
+    {
+      "Entry": 22,
+      "Author": "Brenner, Neil",
+      "Work": "The urban question: reflections on Henri Lefebvre, urban theory and the politics of scale. International journal of urban and regional research 24, no. 2 (2000): 361-378."
+    },
+    {
+      "Entry": 23,
+      "Author": "Brenner, Neil, Christian Schmid, S. Hall, and R. Burdett",
+      "Work": "Elements for a new epistemology of the urban. The SAGE handbook of the 21st century city (2017): 47-68."
+    },
+    {
+      "Entry": 24,
+      "Author": "Peck, Jamie, Nik Theodore, and Neil Brenner",
+      "Work": "Neoliberal urbanism redux?. International Journal of Urban and Regional Research 37, no. 3 (2013): 1091-1099."
+    },
+    {
+      "Entry": 25,
+      "Author": "Brenner, Neil, and Christian Schmid",
+      "Work": "“Planetary urbanization”: from Urban Constellations (2011). In The Globalizing Cities Reader, pp. 449-452. Routledge, 2017."
+    },
+    {
+      "Entry": 26,
+      "Author": "Brenner, Neil, and Roger Keil, eds",
+      "Work": "The global cities reader. Psychology Press, 2006."
+    },
+    {
+      "Entry": 27,
+      "Author": "Brenner, Neil, and Nikos Katsikis",
+      "Work": "Hinterlands of the Capitalocene. In Global Urbanism, pp. 34-48. Routledge, 2021."
+    },
+    {
+      "Entry": 28,
+      "Author": "Brenner, Neil",
+      "Work": "Restructuring, rescaling and the urban question. Critical Planning 16, no. 4 (2009): 61-79."
+    },
+    {
+      "Entry": 29,
+      "Author": "Oppenheimer, Ben R., Charles Beichman, Douglas Brenner, Rick Burruss, Eric Cady, Justin Crepp, Lynne Hillenbrand et al",
+      "Work": "Project 1640: the world's first ExAO coronagraphic hyperspectral imager for comparative planetary science. In Adaptive Optics Systems III, vol. 8447, pp. 736-748. SPIE, 2012."
+    },
+    {
+      "Entry": 30,
+      "Author": "Brenner, Neil",
+      "Work": "Critique of Urbanization: Selected Essays. Berlin, Boston: Birkhäuser, 2016. https://doi.org/10.1515/9783035607956. "
+    },
+    {
+      "Entry": 31,
+      "Author": "Brenner, Neil, and Roger Keil",
+      "Work": "From global cities to globalized urbanization. In The City Reader, pp. 699-709. Routledge, 2020."
+    },
+    {
+      "Entry": 32,
+      "Author": "Schmid, Christian, Milica Topalović, and Neil Brenner",
+      "Work": "Worlds of Planetary Urbanization. In Biennale Architettura 2021: How Will We Live Together?. La Biennale di Venezia, 2021."
+    }
+   ]
+},
+{
+  "Id":9,
+  "Name":"Donna J. Haraway",
+  "Works":[
+    {
+      "Name ID": 9,
+      "Name": "Donna J. Haraway",
+      "Entry": 1,
+      "Author": "Haraway, Donna Jeanne",
+      "Work": "The companion species manifesto: Dogs, people, and significant otherness. Vol. 1. Chicago: Prickly Paradigm Press, 2003. "
+    },
+    {
+      "Name ID": 9,
+      "Name": "Donna J. Haraway",
+      "Entry": 2,
+      "Author": "Haraway, Donna",
+      "Work": "Encounters with companion species: entangling dogs, baboons, philosophers, and biologists. Configurations 14.1 (2006): 97-114. "
+    },
+    {
+      "Name ID": 9,
+      "Name": "Donna J. Haraway",
+      "Entry": 3,
+      "Author": "Haraway, Donna",
+      "Work": "Species matters, humane advocacy: In the promising Grip of earthly oxymorons. Species Matters: Humane Advocacy and Cultural Theory. Columbia University Press, 2011. 17-26. "
+    },
+    {
+      "Name ID": 9,
+      "Name": "Donna J. Haraway",
+      "Entry": 4,
+      "Author": "Haraway, Donna",
+      "Work": "Cosmopolitical critters: Companion species, SF, and staying with the trouble. John Coffin Memorial Lecture, University of London (2012)."
+    },
+    {
+      "Name ID": 9,
+      "Name": "Donna J. Haraway",
+      "Entry": 5,
+      "Author": "Haraway, Donna",
+      "Work": "Situated knowledges: The science question in feminism and the privilege of partial perspective. Women, science, and technology 3 (2013): 455-472."
+    },
+    {
+      "Name ID": 9,
+      "Name": "Donna J. Haraway",
+      "Entry": 6,
+      "Author": "Haraway, Donna",
+      "Work": "Anthropocene, capitalocene, plantationocene, chthulucene: Making kin. Environmental humanities 6.1 (2015): 159-165. "
+    },
+    {
+      "Name ID": 9,
+      "Name": "Donna J. Haraway",
+      "Entry": 7,
+      "Author": "Haraway, Donna J",
+      "Work": "Staying with the trouble: Making kin in the Chthulucene. Duke University Press, 2016"
+    },
+    {
+      "Name ID": 9,
+      "Name": "Donna J. Haraway",
+      "Entry": 8,
+      "Author": "Haraway, Donna",
+      "Work": "SF with stengers: Asked for or not, the pattern is now in your hands. SubStance 47.1 (2018): 60-63. "
+    },
+    {
+      "Name ID": 9,
+      "Name": "Donna J. Haraway",
+      "Entry": 9,
+      "Author": "Haraway, Donna",
+      "Work": "Staying with the trouble for multispecies environmental justice. Dialogues in Human Geography 8.1 (2018): 102-105."
+    },
+    {
+      "Name ID": 9,
+      "Name": "Donna J. Haraway",
+      "Entry": 10,
+      "Author": "Haraway, Donna",
+      "Work": "I Am an Animal. Subjects That Matter: Philosophy, Feminism, and Postcolonial Theory (2019): 105."
+    },
+    {
+      "Name ID": 9,
+      "Name": "Donna J. Haraway",
+      "Entry": 11,
+      "Author": "Haraway, Donna, Drew Endy, and L. Lejeune",
+      "Work": "Tools for multispecies futures. J Des Sci 1 (2019): 1-22."
+    },
+    {
+      "Name ID": 9,
+      "Name": "Donna J. Haraway",
+      "Entry": 12,
+      "Author": "Hadfield, Michael G., and Donna J. Haraway",
+      "Work": "The tree snail manifesto. Current Anthropology 60.S20 (2019): S209-S235."
+    }
+   ]
+},
+{
+  "Id":10,
+  "Name":"Anna L. Tsing",
+  "Works":[
+    {
+      "Name ID": 10,
+      "Name": "Anna L. Tsing",
+      "Entry": 1,
+      "Author": "Tsing, Anna Lowenhaupt",
+      "Work": "On nonscalability: The living world is not amenable to precision-nested scales. Common knowledge 18.3 (2012): 505-524."
+    },
+    {
+      "Name ID": 10,
+      "Name": "Anna L. Tsing",
+      "Entry": 2,
+      "Author": "Tsing, Anna Lowenhaupt",
+      "Work": "The mushroom at the end of the world: On the possibility of life in capitalist ruins. Princeton University Press, 2015."
+    },
+    {
+      "Name ID": 10,
+      "Name": "Anna L. Tsing",
+      "Entry": 3,
+      "Author": "Tsing, Anna, and Maija Lassila",
+      "Work": "Interview with Anna Tsing. Suomen Antropologi: Journal of the Finnish Anthropological Society 42.1 (2017): 22-30."
+    },
+    {
+      "Name ID": 10,
+      "Name": "Anna L. Tsing",
+      "Entry": 4,
+      "Author": "Tsing, Anna Lowenhaupt, et al., eds",
+      "Work": "Arts of living on a damaged planet: Ghosts and monsters of the Anthropocene. U of Minnesota Press, 2017."
+    },
+    {
+      "Name ID": 10,
+      "Name": "Anna L. Tsing",
+      "Entry": 5,
+      "Author": "Gan, Elaine, Anna Tsing, and Daniel Sullivan",
+      "Work": "Using natural history in the study of industrial ruins. Journal of Ethnobiology 38.1 (2018): 39-54."
+    },
+    {
+      "Name ID": 10,
+      "Name": "Anna L. Tsing",
+      "Entry": 6,
+      "Author": "Tsing, Anna Lowenhaupt",
+      "Work": "A multispecies ontological turn. The World Multiple. Routledge (2018)."
+    },
+    {
+      "Name ID": 10,
+      "Name": "Anna L. Tsing",
+      "Entry": 7,
+      "Author": "Tsing, Anna Lowenhaupt",
+      "Work": "Getting by in terrifying times. Dialogues in Human Geography 8.1 (2018): 73-76."
+    },
+    {
+      "Name ID": 10,
+      "Name": "Anna L. Tsing",
+      "Entry": 8,
+      "Author": "Tsing, Anna L., and Jesse Bazzul",
+      "Work": "A feral atlas for the Anthropocene: An interview with Anna L. Tsing. Reimagining science education in the Anthropocene (2022): 309-319."
+    },
+    {
+      "Name ID": 10,
+      "Name": "Anna L. Tsing",
+      "Entry": 9,
+      "Author": "Tsing, Anna Lowenhaupt, Nils Bubandt, Elaine Gan, and Heather Anne Swanson, eds",
+      "Work": "Arts of living on a damaged planet: Ghosts and monsters of the Anthropocene. U of Minnesota Press, 2017."
+    }
+   ]
+}
+]

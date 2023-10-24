@@ -295,12 +295,13 @@ const worldmap = d3.json("./data/land1.geojson");
 const worldmapDetailed = d3.json("./data/land2.geojson"); //0.055 simplify is the max
 const points = d3.csv("./data/mapData.csv");
 const individuals = d3.csv("./data/individualsData.csv");
+const individualsWork = d3.json("./data/individualsWorkData.json");
 //IPSA & Earth4All are drawn twice, because of the data
 
 let data;
 let dataIndividuals
 
-Promise.all([worldmap, points, worldmapDetailed, individuals]).then(function (values) {
+Promise.all([worldmap, points, worldmapDetailed, individuals, individualsWork]).then(function (values) {
 
   if (isSmallScreen) {
     $("#mapButton").on("click", function () {
@@ -390,8 +391,11 @@ Promise.all([worldmap, points, worldmapDetailed, individuals]).then(function (va
 
 
   function addIndividuals() {
-
+    // console.log(values[4])
     dataIndividuals.forEach((d) => {
+      let individual = values[4].filter(ind => ind.Name === d.Name)
+      let individualID = individual[0].Id;
+      let works = individual[0].Works;
       let fill = colorScale(d.Category);
       $(".individualList").append(
         `<li>
@@ -403,13 +407,26 @@ Promise.all([worldmap, points, worldmapDetailed, individuals]).then(function (va
             <br>
             <span class="focusarea" style='background-color:${fill} '> ${d.Category}: ${d.Focus}</span>
             <p class="work">${d.Bio}</p>
-            <p class="work">${d.Work}</p>
+            <div id="work${individualID}"></div>
             <span class="website"><a href='${d.Contact_site}' target='_blank'>Website&nbsp;&nbsp;<img src="./img/website.svg" /></a></span>
             <br><br>
           </ul>
          </li>`
       )
+
+      works.forEach((work) => {
+        $(`#work${individualID}`).append(
+          `<p><b><span>${work.Entry}. </span><span>${work.Author}. </span></b><span>${work.Work}</span></p>`
+        )
+      }
+      )
     })
+
+
+
+
+
+
 
     $(".individualList li").click(function (event) {
       event.preventDefault();

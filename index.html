@@ -320,6 +320,14 @@
           </div>
         </div>
         <hr>
+        <form id="mailinglistform">
+          <p>Mailing List</p>
+          <input type="email" id="mailinglist-bar" autocomplete="off" placeholder="your@email.com" />
+          <ul class="output">
+          </ul>
+          <p id="submit" class="button">Sign Up</p>
+        </form>
+        <hr>
         <div class="itemWrapper contact">
           <a href="mailto: contact@planetaryportal.org">
             <p class="item">Contact us</p>
@@ -339,6 +347,43 @@
       </div>
     </div>
   </div>
+
+  <script>
+    // JavaScript code to handle form submission and webhook
+    document.getElementById('mailinglistform').addEventListener('submit', function(event) {
+        event.preventDefault(); // Prevent default form submission
+
+        // Get the email value from the form field
+        var email = document.getElementById('email').value;
+
+        // Construct the data to send to the webhook
+        var data = {
+            email: email
+        };
+
+        // Send the data to the webhook using fetch API
+        fetch('https://hook.eu2.make.com/rfia11fjruwl24j71r72oa5dt7wpjrdn', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(data)
+        })
+        .then(response => {
+            if (response.ok) {
+                alert('Email submitted successfully!');
+                // Optionally, you can reset the form after successful submission
+                document.getElementById('mailinglistform').reset();
+            } else {
+                throw new Error('Failed to submit email');
+            }
+        })
+        .catch(error => {
+            console.error('Error:', error);
+            alert('Failed to submit email');
+        });
+    });
+</script>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/6.2.0/d3.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>

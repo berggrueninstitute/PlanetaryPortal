@@ -1,10 +1,10 @@
 Id,Organization,Type,Region,Location,Latitude,Longitude,Focus,Category,Year,Mission,Key_persons,Key_words,Contact_address,Contact_site,Contact_phone,Contact_fax,Contact_email,Active
-1,Berggruen Institute,Research Centers & Networks,North America,USA,34.05077317,-118.2477778,Planetary Governance,Solutions & Politics,2010,"From pandemic management to climate change, the nation-state is ill-equipped to manage the underlying causes of planetary-scale disruptions and the consequences for local communities. This failure of states to govern effectively in turn produces a crisis of legitimacy. Solving these twin crises requires a fundamental reimagining and restructuring of our governing institutions. The Berggruen Institute’s project on planetary governance is investigating how to create new planetary-scale institutions capable of addressing planetary-scale challenges, as well as how to enable more effective collaboration among subnational actors and local institutions.","Nils Gilman (Deputy Editor of Noema Magazine, the future of capitalism, political economy, climate change)
+7,Berggruen Institute,Research Centers & Networks,North America,USA,34.05077317,-118.2477778,Planetary Governance,Solutions & Politics,2010,"From pandemic management to climate change, the nation-state is ill-equipped to manage the underlying causes of planetary-scale disruptions and the consequences for local communities. This failure of states to govern effectively in turn produces a crisis of legitimacy. Solving these twin crises requires a fundamental reimagining and restructuring of our governing institutions. The Berggruen Institute’s project on planetary governance is investigating how to create new planetary-scale institutions capable of addressing planetary-scale challenges, as well as how to enable more effective collaboration among subnational actors and local institutions.","Nils Gilman (Deputy Editor of Noema Magazine, the future of capitalism, political economy, climate change)
 
 Jonathan S. Blake (political science, multi-scalar governance)","Planetary, governance, nation-states, interdependence, planetary-scale","Berggruen Institute,
 Bradbury Building
 304 S. Broadway, Suite 500
-Los Angeles, CA 90013, United States of America",www.berggruen.org/work/the-planetary/,"""+1 (310) 550 7083""","""+1 (424) 268 2549""",institute@berggruen.org,Active
+Los Angeles, CA 90013, United States of America",www.berggruen.org/work/the-planetary/  ,"""+1 (310) 550 7083""","""+1 (424) 268 2549""",institute@berggruen.org,Active
 2,Planetary Solutions Project at Yale University,Research Centers & Networks,North America,USA,41.3164921,-72.92232024,Planetary Solutions,Solutions & Politics,2020,"The Planetary Solutions Project will help solve global environmental problems caused by human activities, especially climate change and the loss of biological diversity. Planetary solutions developed at Yale will integrate the natural, health and social sciences, engineering, and humanities; be disseminated through education, outreach, and civic leadership; and be supported by incentives and policies to promote their implementation.",Scott A. Strobel (Yale University Provost),"Planetary, climate change, interdisciplinary, ecosystems, food systems, monitoring, modeling, anthropogenic, carbon capture and storage, evolutionary, Earth-system, biogeochemical, planetary health, sustainability, justice   ","Yale University,
 New Haven, CT 06520,
 United States of America",planetarysolutions.yale.edu/project-framework,"""203 432 4771""",,,Active
@@ -50,7 +50,7 @@ Tellus Institute,
 Cambridge, MA 02138,
 United States of America
 ",https://www.tellus.org/,,,info@tellus.org,Active
-7,Antikythera by Berggruen Institute & One Project,Research Centers & Networks,North America,USA,34.05077317,-118.2477778,Planetary Computation,Solutions & Politics,2022,"Antikythera is a program reorienting planetary computation as a philosophical, technological, and geopolitical force.","Benjamin Bratton (Director)
+1,Antikythera by Berggruen Institute & One Project,Research Centers & Networks,North America,USA,34.02,-118.1,Planetary Computation,Solutions & Politics,2022,"Antikythera is a program reorienting planetary computation as a philosophical, technological, and geopolitical force.","Benjamin Bratton (Director)
 Stephanie Sherman (Associate Director)
 Ben Cerveny (Associate Director)
 Nicolay Boyadjiev(Studio Director)
@@ -74,8 +74,8 @@ Bryony Schwan (Co-founder)
 Dayna Baumeister (Co-founder)","Planetary health, biology, design, biomimicry, regenerative design, circularity, sustainability","Biomimicry Institute,
 PO Box 9216
 Missoula, MT 59807,
-United States of America",https://biomimicry.org/,"""+1 415 800 1401""",,info@biomimicry.org,Active
-10,Planetary Health College - Akamai University,Research Centers & Networks,North America,USA,20.03831599,-155.828518,Planetary Health,Habitability & Hospitability,2002,"Programs at the graduate and undergraduate level address the three primary goals: address the health and well-being of individuals, families, organizations; promote racial equality and justice for all; and  conduct innovative projects to improve the human condition and planetary health.","Medani Bhandari (Dean)
+United States of America",https://biomimicry.org/ ,"""+1 415 800 1401""",,info@biomimicry.org,Active
+10,Planetary Health College - Akamai University ,Research Centers & Networks,North America,USA,20.03831599,-155.828518,Planetary Health,Habitability & Hospitability,2002,"Programs at the graduate and undergraduate level address the three primary goals: address the health and well-being of individuals, families, organizations; promote racial equality and justice for all; and  conduct innovative projects to improve the human condition and planetary health.","Medani Bhandari (Dean)
 Man BK (Collaborator)","Planetary health, racial equality, planetary wellbeing, climate change, biodiversity loss, sustainability, interdsciplinary, Green Growth","Akamai University,
 61-3642 Kawaihae Road, Kamuela, HI
 96743, United States of America",https://www.akamai.university/,"""1 (808) 491 9514""
@@ -86,7 +86,7 @@ University of Minnesota,
 308 Harvard Street SE
 Minneapolis, MN 55455, United States of America
 ",https://nursing.umn.edu/about/planetary-health,"""612 624 5959""",,tmpotter@umn.edu,Active
-12,Human and Planetary Health - Stanford Centre for Innovation in Global Health,Research Centers & Networks,North America,USA,37.43191007,-122.175768,Planetary Health,Habitability & Hospitability,Unknown,"Current models of industrialization and consumption are eroding biodiversity, degrading the environment, and impacting the ability of ecosystems to support human communities. Climate change and other environmental challenges are creating a health crisis of planetary dimension, with impacts falling disproportionately on vulnerable and historically marginalized populations.
+12,Human and Planetary Health - Stanford Centre for Innovation in Global Health ,Research Centers & Networks,North America,USA,37.43191007,-122.175768,Planetary Health,Habitability & Hospitability,Unknown,"Current models of industrialization and consumption are eroding biodiversity, degrading the environment, and impacting the ability of ecosystems to support human communities. Climate change and other environmental challenges are creating a health crisis of planetary dimension, with impacts falling disproportionately on vulnerable and historically marginalized populations.
 
 Comprehensively understanding the linkages between the environment and human health allows us to design policies and systems that account for the true costs of environmental degradation and conservation.
 
@@ -98,7 +98,7 @@ Li Ka Shing Building,
 Stanford, CA 94305-5101, United States of America",https://globalhealth.stanford.edu/human-and-planetary-health/,"""(650) 723 4000""",,globalhealth@stanford.edu,Active
 13,Carnegie Endowment for International Peace,Research Centers & Networks,North America,USA,38.90938302,-77.04105474,Planetary Politics,Solutions & Politics,1910,"In a complex, changing, and increasingly contested world, the Carnegie Endowment generates strategic ideas and independent analysis, supports diplomacy, and trains the next generation of international scholar-practitioners to help countries and institutions take on the most difficult global problems and safeguard peace.","Stewart Patrick (Director, Global Order and Institutions Program)","planetary politics, biodiversity, climate engineering","Carnegie Endowment International Center,
 1779 Massachusetts Avenue NW
-Washington, DC 20036-2103",https://carnegieendowment.org/,"""202 483 7600""","""202 483 1840""",,Active
+Washington, DC 20036-2103",https://carnegieendowment.org/ ,"""202 483 7600""","""202 483 1840""",,Active
 14,"Speculative Life Cluster - Milieux Institute for Arts, Culture and Technology at Concordia University",Research Centers & Networks,North America,Canada,45.49550543,-73.57796805,Planetary Thinking,Justice & Ethics,Unknown,"Our research group is unique in the Milieux Institute for Arts, Culture and Technology at Concordia University in our emphasis on fostering science and technology studies, a focus on ecology and environment, our interest in scale and networks, and finally, our commitment to futurity and imagination as critical to design, art, and scholarship.
 This cluster of artists, designers and scholars presents a rare opportunity to develop the systemic study and creation of emerging technologies with a focus on social justice, difference, and imagination. We engage with multiple technical ecologies, from bio-media to urban planning, in order to foster creative ways to think about the future of the planetary scale transformations currently occurring as a result of human action and technical developments.","Jill Didur (Co-Director)
 Kregg Hetherington (Co-Director)
@@ -106,8 +106,8 @@ Brice Ammar Khodja (Coordinator)","Planetary thinking, ecology, design, art, soc
 1515 St. Catherine Street West (EV 10.625)
 Montreal, Quebec.
 H3G 2W1, Canada
-",https://speculativelife.com/,,,speculative.life@concordia.ca,Active
-15,Planetary Praxis - University of Cambridge,Research Centers & Networks,Europe,UK,52.20538216,0.1169729791,Planetary Justice,Justice & Ethics,Unknown,"Planetary Praxis is an interdisciplinary research group that investigates social life, technology and the planetary through practice-based research.
+",https://speculativelife.com/ ,,,speculative.life@concordia.ca ,Active
+15,Planetary Praxis - University of Cambridge ,Research Centers & Networks,Europe,UK,52.20538216,0.116972979,Planetary Justice,Justice & Ethics,Unknown,"Planetary Praxis is an interdisciplinary research group that investigates social life, technology and the planetary through practice-based research.
 
 Our research focuses on planetary problems, from air pollution to deforestation and climate change. We especially consider how technological approaches to observing and managing these problems influence social life, and how they facilitate or limit democratic engagement and equity.
 
@@ -119,20 +119,20 @@ Trinity Lane,
 Cambridge
 CB2 1TN,
 United Kingdom
-",https://planetarypraxis.org/,,,jg899@cam.ac.uk,Active
-16,Planetary Challenges and Politics Centre - Aberystwyth University,Research Centers & Networks,Europe,UK,52.41528602,-4.063991501,Planetary Politics,Solutions & Politics,Unknown,"We live on an intensely interconnected planet where natural, technological, and social and political systems interact in complex, challenging ways. The Planetary Challenges and Politics Centre is driven by a mission to better understand these complex interconnections.  It is also driven by the increasing demand on both the natural sciences and the social and political sciences to seek a closer conversation between their respective theoretical, methodological and empirical outlooks so as to allow us to productively tackle key challenges: from new and old security threats to health provision, sustainable food production, and climate change.",Patrick Finney (Head of Department - International Politics),"Planetary, politics, interconnections, health, security, sustainable, climate change, food","Department of International Politics,
+",https://planetarypraxis.org/,,, jg899@cam.ac.uk,Active
+16,Planetary Challenges and Politics Centre - Aberystwyth University ,Research Centers & Networks,Europe,UK,52.41528602,-4.063991501,Planetary Politics,Solutions & Politics,Unknown,"We live on an intensely interconnected planet where natural, technological, and social and political systems interact in complex, challenging ways. The Planetary Challenges and Politics Centre is driven by a mission to better understand these complex interconnections.  It is also driven by the increasing demand on both the natural sciences and the social and political sciences to seek a closer conversation between their respective theoretical, methodological and empirical outlooks so as to allow us to productively tackle key challenges: from new and old security threats to health provision, sustainable food production, and climate change.",Patrick Finney (Head of Department - International Politics),"Planetary, politics, interconnections, health, security, sustainable, climate change, food","Department of International Politics,
 Aberystwyth University,
 Penglais, Aberystwyth
 SY23 3FE, Wales
 ",https://www.aber.ac.uk/en/interpol/research/research-centres-and-institutes/planetary-challenges-and-politics-centre/,"""+44 (0)1970 622741""","""01970 622709""",interpol@aber.ac.uk,Active
-17,Panel on Planetary Thinking -Justus-Liebig-Universität Giessen,Research Centers & Networks,Europe,Germany,50.57958442,8.670095842,Planetary Thinking,Solutions & Politics,2020,"""Planetary thinking means taking the Earth as a planet seriously: from the Earth's core to interplanetary space, from nanoseconds to deep time, from elementary particles to the Earth's mass. If interactions between our home planet and ourselves are at the center, a planetary knowledge paradigm takes shape. It is accompanied by the relativization of human existence in the universe and the relativization of the anthropocentric view. Questions of habitability and hospitality become more prominent. Thus the creation of new knowledge always means the creation of new worlds"".
+17, Panel on Planetary Thinking -Justus-Liebig-Universität Giessen ,Research Centers & Networks,Europe,Germany,50.57958442,8.670095842,Planetary Thinking,Solutions & Politics,2020,"""Planetary thinking means taking the Earth as a planet seriously: from the Earth's core to interplanetary space, from nanoseconds to deep time, from elementary particles to the Earth's mass. If interactions between our home planet and ourselves are at the center, a planetary knowledge paradigm takes shape. It is accompanied by the relativization of human existence in the universe and the relativization of the anthropocentric view. Questions of habitability and hospitality become more prominent. Thus the creation of new knowledge always means the creation of new worlds"".
 
 Humans make a substantial contribution to this with their behavior and destroy the bases of life of their own generation as well as the following generations. In other words: Man can destabilize stable planetary conditions, but has not yet been able to restore them. Therefore, it is even more important to take an overall planetary perspective, to question interrelationships, to assess consequences and to create thinking spaces. The newly established ""Panel on Planetary Thinking"" at the Justus Liebig University of Giessen is therefore focusing on the interactions between the planet and humans.   ","Claus Leggewie (Director)
 Frederic Hanusch (Scientific Coordinator)","Planetary, interplanetary, deep time, Anthropocene, cross-disciplinary, sustainability, multidisciplinary, planetary materials","Panel on Planetary Thinking,
 Liebigstraße 35,
 35392 Gießen, Germany
 ",https://www.uni-giessen.de/faculties/planetarythinking,"""+49 641 99 16191""",,panel@planet.uni-giessen.de,Active
-18,Planetary Thinking Working Group - GRADE Sustain Centre at Goethe Universität Frankfurt am Main,Research Centers & Networks,Europe,Germany,50.13054169,8.668119724,Planetary Thinking,Solutions & Politics,Unknown,"GRADE Sustain integrates a broad range of disciplines, which provide theoretical and methodological approaches to the research of sustainable human-environment relationships. Among those are the geosciences, geography and biology as well as humanities and social sciences. This integration of disciplines encourages inter- and transdisciplinary research to address major societal challenges such as the loss of biodiversity and ecosystem services, climate change and environmental pollutants. Key research questions include:
+18,Planetary Thinking Working Group - GRADE Sustain Centre at Goethe Universität Frankfurt am Main ,Research Centers & Networks,Europe,Germany,50.13054169,8.668119724,Planetary Thinking,Solutions & Politics,Unknown,"GRADE Sustain integrates a broad range of disciplines, which provide theoretical and methodological approaches to the research of sustainable human-environment relationships. Among those are the geosciences, geography and biology as well as humanities and social sciences. This integration of disciplines encourages inter- and transdisciplinary research to address major societal challenges such as the loss of biodiversity and ecosystem services, climate change and environmental pollutants. Key research questions include:
 
 - To what extent do the loss of biodiversity and the anthropogenic transformations of ecosystems influence the supply of ecosystem services and human well-being?
 - How can we process the complexity of environment and society in order to secure livelihoods and equitable sustainable development?
@@ -143,7 +143,7 @@ Antje Schlottmann (Professor for Geography and Education at Goethe University)",
 Campus Bockenheim, Juridicum (9th floor),
 Senckenberganlage 31,
 60325 Frankfurt am Main, Germany",https://www.goethe-university-frankfurt.de/99718276/EXPLORING_PLANETARY_THINKING,"""+49 (0)69798 49411""","""+49 (0)69798 49407""",grade@uni-frankfurt.de,Active
-19,Planetary Geopolitics and Geoengineering  - Institute for Advanced Sustainability Studies (IASS) Potsdam,Research Centers & Networks,Europe,Germany,52.40628103,13.0732977,"Planetary Geopolitics
+19,Planetary Geopolitics and Geoengineering  - Institute for Advanced Sustainability Studies (IASS) Potsdam  ,Research Centers & Networks,Europe,Germany,52.40628103,13.0732977,"Planetary Geopolitics
 Geoengineering",Earth System Science,Unknown,"Our group focuses on modes of knowledge and action that today constitute a distinctively ""planetary"" geopolitics and analyzes the challenge they pose to familiar categories of modern scientific and political reason: representation and intervention, necessity and contingency, action and inaction, certainty and indeterminacy. The group uses ethnographic and historical research methods and draws on concepts from science and technology studies, cultural anthropology, ordinary language philosophy, political economy, and political theory to characterize how forms of collective life are taking shape and coming apart with the ascent of the ""planetary"" in science and politics.","Stefan Schäfer (Research Group Leader)
 Mark Lawrence (Managing Scientific Director)
 Gabriel Dorthe (Research Associate)
@@ -168,7 +168,7 @@ https://www.anthropocene-curriculum.org/contributors ","Planetary, Anthropocene,
 John-Foster-Dulles-Allee 10,
 10557 Berlin, Germany
 ",https://www.anthropocene-curriculum.org/,"""+49 (0)30 397 870""",,curriculum@hkw.de,Active
-22,Haus der Kulturen der Welt (HKW),Organizations & Associations,Europe,Germany,52.51865843,13.36444962,Planetary Thinking,Solutions & Politics,1989,"Haus der Kulturen der Welt (HKW) creates a forum for the contemporary arts and critical debates. In the midst of profound global and planetary transformation processes, HKW re-explores artistic positions, scientific concepts, and spheres of political activity, asking: How do we grasp the present and its accelerated technological upheavals? What will tomorrow’s diversified societies look like? And what responsibilities will the arts and sciences assume in this process?
+22,Haus der Kulturen der Welt (HKW),Organizations & Associations,Europe,Germany,53,12.7,Planetary Thinking,Solutions & Politics,1989,"Haus der Kulturen der Welt (HKW) creates a forum for the contemporary arts and critical debates. In the midst of profound global and planetary transformation processes, HKW re-explores artistic positions, scientific concepts, and spheres of political activity, asking: How do we grasp the present and its accelerated technological upheavals? What will tomorrow’s diversified societies look like? And what responsibilities will the arts and sciences assume in this process?
 
 HKW develops and stages a program that is unique in Europe, blending discourse, exhibitions, concerts and performances, research, education programs and publications. Its projects initiate reflection processes and devise new frames of reference. In its work, HKW understands history as a resource for alternate narratives.
 
@@ -330,8 +330,8 @@ Space Anthropology",Earth System Science,2020,"The ethnographic methods we will 
 Chakad Ojani
 Karlijn Korpershoek
 Peter Timko","Planetary, ethnography, anthropology, space exploration, multiplanetary, New Space, climate change","Cracow, Małopolskie, 30-252,
-Poland",https://aries-project.com/,,,,Active
-38,THE LANCET Planetary Health,Research Centers & Networks,Europe,UK,51.51775983,-0.0938078811,Planetary Boundaries,Habitability & Hospitability,2016,"The Lancet Planetary Health is the pre-eminent journal for enquiry into sustainable human civilisations in the Anthropocene. We particularly favour work that contributes to our understanding of, and transition into, a safe and just space for humanity, respecting planetary boundaries and the social and economic foundations of a healthy life. We are interested in all important aspects of societal development and its interaction with the environment including the drivers of change, the implications of those changes for people and society, and practical policies and interventions for a healthier planetary future.","Alastair Brown (Editor-in-Chief)
+Poland",https://aries-project.com/ ,,,,Active
+38,THE LANCET Planetary Health,Research Centers & Networks,Europe,UK,51.51775983,-0.093807881,Planetary Boundaries,Habitability & Hospitability,2016,"The Lancet Planetary Health is the pre-eminent journal for enquiry into sustainable human civilisations in the Anthropocene. We particularly favour work that contributes to our understanding of, and transition into, a safe and just space for humanity, respecting planetary boundaries and the social and economic foundations of a healthy life. We are interested in all important aspects of societal development and its interaction with the environment including the drivers of change, the implications of those changes for people and society, and practical policies and interventions for a healthier planetary future.","Alastair Brown (Editor-in-Chief)
 John Carson (Chief Editor)
 Haoyu Wang (Senior Editor)","Planetary health, Anthropocene, climate change, sustainability, planetary boundaries","The Lancet Group,
 125 London Wall,
@@ -362,8 +362,8 @@ Based on this vision, the university has made a firm commitment to contribute to
 José Luis Martí (Vice-Rector for Innovation projects)
 Josep Maria Antó (Scientific Director of ISGlobal)","Planetary wellbeing, planetary health, interdisciplinary, Sustainable Developemnt Goals, climate crisis, animal welfare,transdiciplinary, Anthropocene","Universitat Pompeu Fabra,
 Barcelona, Spain
-",https://www.upf.edu/web/wellbeing#presentacio,,,benestarplanetari@upf.edu,Active
-41,Stockholm Environment Institute (SEI),Research Centers & Networks,Europe,Sweden,59.3346781,18.09696317,Planetary Boundaries,Solutions & Politics,1989,"We connect science and decision-making to develop solutions for a sustainable future for all.
+",https://www.upf.edu/web/wellbeing#presentacio ,,,benestarplanetari@upf.edu,Active
+41,Stockholm Environment Institute (SEI) ,Research Centers & Networks,Europe,Sweden,59.3346781,18.09696317,Planetary Boundaries,Solutions & Politics,1989,"We connect science and decision-making to develop solutions for a sustainable future for all.
 
 Our work spans climate, water, air and land-use issues, governance, the economy, gender and health. Stakeholder involvement is at the heart of our efforts to build capacity, strengthen institutions and equip partners for long-term change.
 
@@ -385,7 +385,7 @@ IXDM
 Postfach
 4002 Basel,
 Switzerland
-",https://governingthrough.design/,,,,Active
+",https://governingthrough.design/ ,,,,Active
 43,Berggruen China Center - Peking University,Research Centers & Networks,Asia,PRC,39.98695509,116.3058819,Planetary Thinking,Solutions & Politics,2018,"Breakthroughs in artificial intelligence and life science have led to the fourth scientific and technological revolution. The Berggruen China Center is a hub for East-West research and dialogue dedicated to the cross-cultural and interdisciplinary study of the transformations affecting humanity. Intellectual themes for researchers and visiting scholars focus on frontier technologies and society—specifically in artificial intelligence, the microbiome, and gene editing as well as issues involving global governance and globalization.","Song Bing (Director)
 Jennifer Bourne (Director of Fellowship; Associate Editor of Noema Magazine)
 Xiaojiao Li (Associate Director (Communications))
@@ -403,14 +403,14 @@ Duke Kunshan University,
 8 Duke Avenue
 Kunshan, Jiangsu
 215316 China
-",https://sites.duke.edu/dkuhumanities/projects/petal/,,,,Active
+",https://sites.duke.edu/dkuhumanities/projects/petal/ ,,,,Active
 45,"Sunway Centre for Planetary Health (SCPH) - Sunway University, Kuala Lumpur",Research Centers & Networks,Asia,Malaysia,3.067430541,101.603812,Planetary Health,Habitability & Hospitability,2021,"To advance planetary health through knowledge, engagement and influence. ",Jemilah Mahmood (Executive Director),"Planetary health, climate crisis, sustainability, pandemic, ","Sunway University,
 (200401015434 (653937-U))(DU025(B))
 No. 5, Jalan Universiti,
 Bandar Sunway,
 47500 Selangor Darul Ehsan,
 Malaysia
-",https://university.sunway.edu.my/research/planetaryhealth,"""+6 (03) 7491 8622""",,info@sunway.edu.my,Active
+",https://university.sunway.edu.my/research/planetaryhealth ,"""+6 (03) 7491 8622""",,info@sunway.edu.my,Active
 46,Planetary Health Philippines (PH²),Research Centers & Networks,Asia,Philippines,14.59547559,120.9807291,Planetary Health,Habitability & Hospitability,2021,"Planetary Health Philippines or PH² is a community of Filipino planetary health advocates, scholars, and practitioners for exchanging ideas, forging collaborations, and advancing the new discipline of planetary health – the integrated positive vision for the health of people and the planet – in the Philippines.","Renzo Guinto (Convener)
 Marianne K. Bongcac (Head of Secretariat)
 Cheska Delos Reyes (Multimedia Consultant)","Planetary health, climate crisis, interdisciplinary, intersectoral, planetary health stewardship, Anthropocene, biodiversity loss, holistic approach","Manila, Philippines",https://planetaryhealth.ph/,,,info@planetaryhealth.ph,Active
@@ -424,7 +424,7 @@ We are a community of scholars, lawyers, activists, and citizens committed to ad
 While we share a commitment to an Earth-centred ethos and environmental justice, as scholars and citizens we like to debate and disagree. Our proposals, writings and causes are offered as spurs for further learning, dialogue and deliberation - a modest step toward a global and ecological parliament of things.","Stefanie Fishel (Principal)
 Anthony Burke (Principal)","Planetary, politics, governance, law, virtual, sustainable, ecological, Anthropocene, capitalism, justice, indigenous, Coal Treaty, International Relations, security, biodiversity, Earth system, ecosystem, animal rights, non-human","Planet Politics Institute (PPI)
 Canberra, ACT 2602,
-Australia",https://www.planetpolitics.org/,,,info@planetpolitics.org,Active
+Australia",https://www.planetpolitics.org/,,, info@planetpolitics.org,Active
 49,New Earth Histories Research Program - University of New South Wales (UNSW Sydney),Research Centers & Networks,Australia & Oceania,Australia,-33.91636017,151.2330773,"Geoscience
 Cosmology",Earth System Science,2019,"New Earth Histories brings the history of geosciences and the history of select world cosmologies together. We aim to produce a fresh and cosmopolitan history of environmental sciences, analysing the significance of geological time and multiple cosmologies for global modernity itself.","Alison Bashford (Co - Director)
 Jarrod Hore (Co - Director)","Planetary, geology, geoscience, cosmology, tectonic, geosocial, non-Western, Anthropocene, sovereignty, law, ","New Earth Histories Research Program,
@@ -435,7 +435,7 @@ University of New South Wales, Australia
  Anthropocene",Solutions & Politics,Unknown,"The Anthropocene Transition Network Inc (ATN), an incorporated non-profit membership association. The ATN runs a program of face-to-face and online workshops, roundtables and public forums dealing with many aspects of living in the Anthropocene and preparing the transition to a future beyond social and environmental breakdown. The ATN runs a networking platform called the Anthropocene Transition Hub.  The Hub is an online community of creative change-makers whose purpose is to promote mutually beneficial ways of relating to the planet and all its life forms – restoring the rich biodiversity of Earth and the best of our human cultural legacies, including the ancient wisdom of enduring indigenous cultures.",Kenneth McLeod,"Anthropocene, climate change, indigenous knowledge, biodiversity, Earth sovereignty, eco-social resilience, eco-mutuality, ","Anthropocene Transition Network
 75 Taylor Street
 Annandale, NSW 2038,
-Australia",https://www.ageoftransition.org/home,"""+61 421 791 713""",,kjmcleod@gmail.com,Active
+Australia",https://www.ageoftransition.org/home ,"""+61 421 791 713""",,kjmcleod@gmail.com,Active
 51,Children in the Anthropocene,Research Centers & Networks,Australia & Oceania,Australia,-37.73959214,145.0313155,Anthropocene,Solutions & Politics,2017,"The research project Children in the Anthropocene is premised on the import of making kin and being kin. The ‘situatedness’ of being child at this time of the Anthropocene is about recognising we have alway been in relation with kin and how to consider how to reconstitute our ‘ecological community’. That is, as nature, we are human and nonhuman, we are beings in common, entangled, sensing, touching, sharing ecologically our posthumanist selves.",Karen Malone (Director),"Anthropocene, climate change, ecological community, nonhuman, posthumanist","Swinburne, Australia",https://childrenintheanthropocene.com/,,,kmalone@swin.edu.au,Active
 52,Blue Mountains Planetary Health Pluriversity - Blue Mountains Planetary Health Initiative,Organizations & Associations,Australia & Oceania,Australia,-33.71242289,150.3117701,Planetary Health,Habitability & Hospitability,Unknown,"The Blue Mountains Planetary Health Pluriversity works in close relationship with Country, and collaboratively with our First Nations, as well as with our diverse local communities, our research partners, visiting thinkers and practitioners, and global communities, to explore creative and innovative ways for us all to learn, to collaborate, and to contribute to restoring Planetary Health now, and for generations to come.
 
@@ -520,7 +520,7 @@ Marie Studer (Senior Program Manager)","Planetary, health, transdisciplinary, Gr
 665 Huntington Ave, Building 1 Rm 1312,
 Boston, MA 02115, United States of America
 ",https://www.planetaryhealthalliance.org/planetary-health,"""(617) 998 2626""",,pha@harvard.edu,Active
-61,Earth4All,Organizations & Associations,Cross-border Collaboration,Global,47.4977137,8.724359737,Transformational Economics,Solutions & Economics,2020,"Earth4All builds on the legacies of 'The Limits to Growth' and the 'Planetary Boundaries' frameworks. Science is at the heart of our work. We rethink capitalism and move beyond GDP for a safe, secure and prosperous future in the Anthropocene.","Sandrine Dixson-Declève (Project Lead)
+61,Earth4All,Organizations & Associations,Cross-border Collaboration,Global,47.2,8.5,Transformational Economics,Solutions & Economics,2020,"Earth4All builds on the legacies of 'The Limits to Growth' and the 'Planetary Boundaries' frameworks. Science is at the heart of our work. We rethink capitalism and move beyond GDP for a safe, secure and prosperous future in the Anthropocene.","Sandrine Dixson-Declève (Project Lead)
 Owen Gaffney (Project Lead)
 Per Espen Stoknes (Project Lead)
 Till Kellerhoff (Project Lead)","Planetary, boundaries, transformational economics, capitalism, Anthropocene, ecological economics, wellbeing economics, degrowth, doughnut economics, green growth, empowerment, inequality, food systems, energy, poverty, models, gender, climate change, Stockholm+50, decolonising ","Zurich, Switzerland",https://www.earth4all.life/,,,info@earth4all.life,Active
@@ -562,24 +562,3 @@ The mission of The Living Forest proposes a legal claim to the territorial right
 Calle Francisco de Orellana y General Villamil 160150
 Puyo, Pastaza
 Ecuador",https://kawsaksacha.org/,"""+593 328 8397""",,kawsak.sacha.sarayaku@gmail.com,Active
-69,More-than-Planet,Research Centers & Networks,Europe,The Netherlands,52.37294325,4.90030228,Planetary Imaginaries,Earth System Science,2022,"The European project More-than-Planet (2022 – 2025) finds an urgency to re-examine the way people understand and picture the environment on the level of the planet as a conceptual whole, together with partners Waag (NL), Ars Electronica (AT), Northern Photographic Centre (FI), ART2M/Makery (FR), Leonardo/Olats (FR) and Zavod Projekt Atol (SI). In a collaboration with artists, critical thinkers, and various experts from cultural, environmental, and outer space institutions, the project will address this crisis of planetary imaginary.",Lukáš Likavčan (Working Group Convenor of More-Than-Planet Lab),"Planetary imaginaries, territorial agency, transdsciplinary, climate change","Waag | Futurelab for technology & society
-Nieuwmarkt 4
-1012 CR Amsterdam,
-The Netherlands",https://www.more-than-planet.eu/,"""+31 (0)20 5579898""",,"bonnie@waag.org
-contact@makery.info",Active
-70,Arctic Sustainability Lab,Research Centers & Networks,Europe,Norway,69.68583463,18.97263611,Planetary Thinking,Earth System Science,Unknown,"The Arctic Sustainability Lab collates sustainable research initiatives that aim to innovatively contribute, share and build knowledge for sustainable transitions in the Arctic. The website hosts projects in sustainability science that could be use-inspired sciences addressing sustainability challenges, interdisciplinary approaches combining natural and social sciences, as well as actionable knowledge developed in collaboration with decision makers, managers or local resource users.","Vera Helene Hausner (Group Leader)
-Ann Eileen Lennert (Co-lead)","Planetary thinking, sustainability, Arctic, ecosystems, indigenous,","Arctic Sustainability Lab
-Biologibygget
-Framstredet 39
-9019 Tromsø,
-Norway",https://arcticsustainability.com/,,,"vera.hausner@uit.no
-ann.e.lennert@uit.no",Active
-71,Max Planck Institute of Geoanthropology,Research Centers & Networks,Europe,Germany,50.91800271,11.57862808,Planetary Thinking,Earth System Science,1993,"A defining challenge of future science is to integrate the findings of different disciplines on the pressing human issues of climate change, biodiversity crisis, overexploitation of natural resources, and the sustainable persistence of human communities. It is at the intersection of these issues that the Max Planck Institute of Geoanthropology comes in. Through model-based and interpretive approaches, the institute examines the fundamental dynamics and dilemmas that have brought about the multiple crises of the ""Anthropocene,"" humanity's proposed geological epoch, and explores their mutual conditions.","Jürgen Renn (Founding Director/ Managing Director)
-Ricarda Winkelmann (Founding Director)","Planetary thinking, planetary urbanization, climate change, Anthropocene, biodiversity, geoanthropology","Max Planck Institute of Geoanthropology
-Kahlaische Strasse 10
-07745 Jena
-Germany",https://www.shh.mpg.de/en,"""+49 3641 686-5""","""+49 3641 686-990""",info@gea.mpg.de,Active
-72,Institute for Sustainable Futures,Research Centers & Networks,Australia & Oceania,Australia,-33.88336302,151.1992898,Planetary Thinking,Solutions & Politics,1997,"ISF is an independent research institute within the University of Technology Sydney. It conducts transdisciplinary, project-based research in line with the vision of creating positive change towards sustainable futures.",Not listed,"Planetary, sustainability, transdisciplinary","Institute for Sustainable Futures
-Level 10, UTS Building 10
-235 Jones Street
-Ultimo NSW 2007, Australia",https://www.uts.edu.au/isf,"""+61 2 9514 4950""",,isf@uts.edu.au,Active
